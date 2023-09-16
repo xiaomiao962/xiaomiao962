@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xiaomiao962
 - 👀 I’m interested in music.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Now I am a graduate student, I hope to learn more from you~
 
 <!---
 xiaomiao962/xiaomiao962 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
